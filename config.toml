@@ -16,7 +16,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
 
 
-    primaryColor = "#3D9970"
+    primaryColor = "#85144b"
     textPrimaryColor = "#292929"
 
 

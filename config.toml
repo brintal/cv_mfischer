@@ -1,6 +1,6 @@
 # Page settings
 
-baseURL = "http://michaelfischer.work/"
+baseURL = "https://michaelfischer.work/"
 languageCode = "en"
 title = ""
 theme = "hugo-devresume-theme"

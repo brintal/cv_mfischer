@@ -16,7 +16,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
     description = "DevResume - Bootstrap 4 Resume/CV Template For Software Developers"
 
 
-    primaryColor = "#85144b"
+    primaryColor = "#ff4757"
     textPrimaryColor = "#292929"
 
 
@@ -39,15 +39,15 @@ googleAnalytics = "UA-XXXXXXX-Y"
         location = "Vienna, Austria"
 
         [[params.contact.list]]
-        icon = "fas fa-phone-square"
+        icon = "fas fa-mobile"
         url = "tel:#"
         text = "+43 680 3120111"
         [[params.contact.list]]
-        icon = "fas fa-envelope-square"
+        icon = "fas fa-paper-plane"
         url = "mailto:#"
         text = "info@michaelfischer.work"
         [[params.contact.list]]
-        icon = "fas fa-globe"
+        icon = "fas fa-globe-europe"
         url = "#"
         text = "michaelfischer.work"
 
@@ -63,41 +63,57 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.skills.list]]
         title = "Languages"
         [[params.skills.list.items]]
-        details = "Java (7, 8, 11, 12)"
+        details = "• Java (7, 8, 11, 12)"
         [[params.skills.list.items]]
-        details = "HTML"
+        details = "• HTML, XML, JSON, YAML, CSS/Sass, Markdown, XSLT"
         [[params.skills.list.items]]
-        details = "CSS/Sass"
+        details = "• SQL (PostgreSQL, Oracle)"
         [[params.skills.list.items]]
-        details = "SQL (PostG"
-        [[params.skills.list.items]]
-        details = "Object-oriented design"
-        [[params.skills.list.items]]
-        details = "Design and implement database structures"
-        [[params.skills.list.items]]
-        details = "Lead and deliver complex software systems"
+        details = "• TypeScript, JavaScript, Groovy"
+
 
         [[params.skills.list]]
         title = "Frameworks & Technologies"
         [[params.skills.list.items]]
-        details = "Effective communication"
+        details = "• Java EE, Spring, Spring Boot"
         [[params.skills.list.items]]
-        details = "Team player"
+        details = "• Spring Security, Spring Roo, Spring Webflow"
         [[params.skills.list.items]]
-        details = "Strong problem solver"
+        details = "• SOAP, Rest"
         [[params.skills.list.items]]
-        details = "Good time management"
+        details = "• JPA, Hibernate, Spring Data, MyBatis"
+        [[params.skills.list.items]]
+        details = "• Angular, GWT, Vaadin, JSF, JSP, Wicket"
+        [[params.skills.list.items]]
+        details = "• Maven, Gradle"
+        [[params.skills.list.items]]
+        details = "• JUnit, Spock, Mockito, EasyMock"
+        [[params.skills.list.items]]
+        details = "• Tomcat, IBM Websphere"
+        [[params.skills.list.items]]
+        details = "• Docker, Openshift"
+        [[params.skills.list.items]]
+        details = "• Micrometer, Grafana, Prometheus, InfluxDB"
 
         [[params.skills.list]]
-        title = "Professional"
+        title = "Software"
         [[params.skills.list.items]]
-        details = "Effective communication"
+        details = "• IntelliJ IDEA, Eclipse IDE, IBM Rational Application Developer"
         [[params.skills.list.items]]
-        details = "Team player"
+        details = "• GIT, SVN, Rational Team Concert (Jazz)"
         [[params.skills.list.items]]
-        details = "Strong problem solver"
+        details = "• Jenkins"
         [[params.skills.list.items]]
-        details = "Good time management"
+        details = "• JIRA, Confluence, Trello"
+        [[params.skills.list.items]]
+        details = "• MS Office, MS Project, Adobe Photoshop"
+
+        [[params.skills.list]]
+        title = "Other"
+        [[params.skills.list.items]]
+        details = "• Server Administration, DevOps, Firewalls"
+        [[params.skills.list.items]]
+        details = "• Thread Safety, Memory Optimization"
 
 
 
@@ -166,7 +182,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.interests.list]]
-        name = "Music"
+        name = "Music / Guitar"
         [[params.interests.list]]
         name = "Video Games"
         [[params.interests.list]]
@@ -183,7 +199,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "I'm a Java-Expert with 10 years of relevant working experience and a broad knowlegde of both new and well-established technologies and frameworks. During my professional career I could gather valueable knowledge in various industries like telecommunications, education or public services and my international exposure further helps me to quickly adjust to different working environments and to communicate effectively. Through my deep understanding of the whole Java Ecosystem and my high standards in regards of application design, I constantly strive to deliver software components meeting the highest quality standards. Robust, well-designed software and clean, thourougly tested code are not just ideals for me but a minimum requirement."
+        text = "With 10 years of practical experience and a broad knowlegde technologies and frameworks, I've become a versatile Java-Expert. During my professional career I could gather valueable knowledge in various industries like telecommunications, education or public services and my international exposure further helps me to quickly adjust to different working environments and to communicate effectively. Through my deep understanding of the whole Java Ecosystem and my high standards in regards of application design, I constantly strive to deliver software components meeting the highest quality standards. Robust, well-designed software and clean, thourougly tested code are not just ideals for me but a minimum requirement."
 
 
 
@@ -194,41 +210,41 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Sr. Software Engineer / Application Lead"
         dates = "2017 - current"
         company = "UCS - unique computing solutions, Vienna"
-        details = "Implementation and Maintenance of complex Application in the telecommunications industry"
-        [[params.experience.list.items]]
-        details = "Development of new Software components like payment systems, e-sim administration, phone number porting and many more"
-        [[params.experience.list.items]]
-        details = "Software Security"
+        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+#        [[params.experience.list.items]]
+#        details = "Development of new Software components like payment systems, e-sim administration, phone number porting and many more"
+#        [[params.experience.list.items]]
+#        details = "Software Security"
 
         [[params.experience.list]]
         title = "Sr. Software Engineer / Lead Dev"
         dates = "2015 - 2016"
         company = "connex.cc, Vienna"
-        details = "Design and implementation of dynamic web applications using various java technologies like Vaadin, Hibernate, Maven, Eclipse"
-        [[params.experience.list.items]]
-        details = "Agile software development using SCRUM"
-        [[params.experience.list.items]]
-        details = "Responsible for architectural decisions regarding existing and new software projects"
-        [[params.experience.list.items]]
-        details = "Design and implementation of development processes and environments"
-        [[params.experience.list.items]]
-        details = "Coaching of colleagues"
-        [[params.experience.list.items]]
-        details = "Release, build and deployment management"
+        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+#        [[params.experience.list.items]]
+#        details = "Agile software development using SCRUM"
+#        [[params.experience.list.items]]
+#        details = "Responsible for architectural decisions regarding existing and new software projects"
+#        [[params.experience.list.items]]
+#        details = "Design and implementation of development processes and environments"
+#        [[params.experience.list.items]]
+#        details = "Coaching of colleagues"
+#        [[params.experience.list.items]]
+#        details = "Release, build and deployment management"
 
         [[params.experience.list]]
         title = "Software Engineer / IT Consultant"
         dates = "2016 - 2019"
         company = "Accenture Technology Solutions GmbH"
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel."
-        [[params.experience.list.items]]
-        details = "Lorem ipsum dolor sit amet, consectetuer."
-        [[params.experience.list.items]]
-        details = "Aenean commodo ligula eget dolor."
+#        [[params.experience.list.items]]
+#        details = "Lorem ipsum dolor sit amet, consectetuer."
+#        [[params.experience.list.items]]
+#        details = "Aenean commodo ligula eget dolor."
 
         [[params.experience.list]]
         title = "Programmer / QA Engineer"
-        dates = "2009 - 2009"
+        dates = "2009"
         company = "Tricentis Technology & Consulting GmbH, Vienna"
         details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
 
@@ -241,19 +257,46 @@ googleAnalytics = "UA-XXXXXXX-Y"
         enable = true
 
         [[params.projects.list]]
-        title = "Project Lorem Ipsum"
-        meta = "Open Source"
+        title = "Online payment system for major austrian telco provider"
+        meta = "2018-2019, with UCS"
         tagline = "You can use this section for your side projects. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        additional = "Java, GWT, Spring Security, REST/CXF, Wirecard API"
 
         [[params.projects.list]]
-        title = "Project Sed Fringilla"
-        meta = "Open Source"
+        title = "Implementing eSIM Management for major austrian telco provider"
+        meta = "2017, with UCS"
         tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        additional = "Java, GWT, Spring Security, REST/CXF, Wirecard API"
 
         [[params.projects.list]]
-        title = "Project Praesent"
-        meta = "Open Source"
+        title = "Cryptocurrency Trading and Simulation Platform"
+        meta = "2018-2019, Private"
         tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        additional = "Java, GWT, Spring Security, REST/CXF, Wirecard API"
+
+        [[params.projects.list]]
+        title = "Private Cloud on baremetal server"
+        meta = "2019, Private"
+        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        additional = "Linux, Docker, bash, IPMI, "
+
+        [[params.projects.list]]
+        title = "Administrative platform for public educational organization"
+        meta = "2015-2016, with connex.cc"
+        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        additional = "Java, Vaadin, Spring Security, JPA, Spring Data, Spring REST, PostgreSQL"
+
+        [[params.projects.list]]
+        title = "Extension of scholarship administration system for a german ministry"
+        meta = "2014 with Accenture"
+        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        additional = "Java, Spring, IBM Websphere, JSF, Spring Webflow, Oracle"
+
+        [[params.projects.list]]
+        title = "Reimplementation of the tax and customs systems for an austrian ministry"
+        meta = "2011-2014, with Accenture"
+        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
+        additional = "Java, Spring, IBM Websphere, JSF, Spring Webflow, Oracle"
 
 
 

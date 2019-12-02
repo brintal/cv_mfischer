@@ -210,7 +210,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Sr. Software Engineer / Application Lead"
         dates = "2017 - current"
         company = "UCS - unique computing solutions, Vienna"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        details = "UCS is specialized in Java Project in the telecommunications industry. I was working on a various projects as technical lead, architect and application lead."
 #        [[params.experience.list.items]]
 #        details = "Development of new Software components like payment systems, e-sim administration, phone number porting and many more"
 #        [[params.experience.list.items]]
@@ -220,7 +220,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Sr. Software Engineer / Lead Dev"
         dates = "2015 - 2016"
         company = "connex.cc, Vienna"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        details = "connex.cc is a vienna based software service provider. I was responsible for a development team which created software in the areas of education and public services."
 #        [[params.experience.list.items]]
 #        details = "Agile software development using SCRUM"
 #        [[params.experience.list.items]]
@@ -236,7 +236,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Software Engineer / IT Consultant"
         dates = "2016 - 2019"
         company = "Accenture Technology Solutions GmbH"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Donec pede justo, fringilla vel."
+        details = "Accenture is a world wide operating IT consultancy. I joined the company as Junior Software Engineer and quickly established myself as a key player within the company and was deployed on several different projects, including the roles of Engineer, Team Lead, Project Management Assistance and Consultant."
 #        [[params.experience.list.items]]
 #        details = "Lorem ipsum dolor sit amet, consectetuer."
 #        [[params.experience.list.items]]
@@ -246,7 +246,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
         title = "Programmer / QA Engineer"
         dates = "2009"
         company = "Tricentis Technology & Consulting GmbH, Vienna"
-        details = "Role description goes here ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
+        details = "Tricentis is specialized in Software Test and QA. As part of my studies I was working on the company's QA software and developing plugins for it."
 
 
 
@@ -259,42 +259,42 @@ googleAnalytics = "UA-XXXXXXX-Y"
         [[params.projects.list]]
         title = "Online payment system for major austrian telco provider"
         meta = "2018-2019, with UCS"
-        tagline = "You can use this section for your side projects. Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus."
-        additional = "Java, GWT, Spring Security, REST/CXF, Wirecard API"
+        tagline = "I was responsible for implementing the new online payment system according to PSD2 regulations. This included the central payment interface for all prepaid as well as postpaid payments of the company."
+        additional = "Java, Spring, GWT, Spring Security, REST/CXF, Wirecard API, Oracle, JPA, Hibernate"
 
         [[params.projects.list]]
         title = "Implementing eSIM Management for major austrian telco provider"
         meta = "2017, with UCS"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
-        additional = "Java, GWT, Spring Security, REST/CXF, Wirecard API"
+        tagline = "Supporting the transition to the eSIM technology, I was responsible for upgrading the existing SIM provisioning and adminstration platform to support the eSIM technology. "
+        additional = "Java, Spring, GWT,Spring Security, SOAP, Oracle, JPA, Hibernate"
 
         [[params.projects.list]]
         title = "Cryptocurrency Trading and Simulation Platform"
         meta = "2018-2019, Private"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
-        additional = "Java, GWT, Spring Security, REST/CXF, Wirecard API"
+        tagline = "Together with I created a full-fledged trading platform for cryptocurrency markets, supporting automatic trading, detailed monitoring and advanced simulations (backtesting)"
+        additional = "Java 12, Spring Boot, Spring Security, REST, JPA/Spring Data, PostgreSQL, Micrometer, Prometheus, Grafana"
 
         [[params.projects.list]]
         title = "Private Cloud on baremetal server"
         meta = "2019, Private"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
-        additional = "Linux, Docker, bash, IPMI, "
+        tagline = "Installation and Operation of an own baremetal server running a dockerized application landscape on Linux. Currently used for private cloud, webhosting, media server, vpn access and app deployment."
+        additional = "Linux, Docker, bash, IPMI, SeaFile, Apache HTTP Server, Portainer, emby"
 
         [[params.projects.list]]
         title = "Administrative platform for public educational organization"
         meta = "2015-2016, with connex.cc"
-        tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
-        additional = "Java, Vaadin, Spring Security, JPA, Spring Data, Spring REST, PostgreSQL"
+        tagline = "As technical lead I helped building a new administrative platform from the ground up, for one of vienna's major public educational organizations. The system is used for course design, budget estimation and fund distribution. "
+        additional = "Java, Spring Boot, Vaadin, Spring Security, JPA, Spring Data, Spring REST, PostgreSQL"
 
         [[params.projects.list]]
         title = "Extension of scholarship administration system for a german ministry"
-        meta = "2014 with Accenture"
+        meta = "2014, with Accenture"
         tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
         additional = "Java, Spring, IBM Websphere, JSF, Spring Webflow, Oracle"
 
         [[params.projects.list]]
         title = "Reimplementation of the tax and customs systems for an austrian ministry"
-        meta = "2011-2014, with Accenture"
+        meta = "2011-2013, with Accenture"
         tagline = "You can use this section for your side projects. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim."
         additional = "Java, Spring, IBM Websphere, JSF, Spring Webflow, Oracle"
 

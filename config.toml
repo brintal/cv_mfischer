@@ -2,7 +2,7 @@
 
 baseURL = "https://michaelfischer.work/"
 languageCode = "en"
-title = ""
+title = "Michael Fischer"
 theme = "hugo-devresume-theme"
 googleAnalytics = "UA-XXXXXXX-Y"
 
@@ -199,7 +199,7 @@ googleAnalytics = "UA-XXXXXXX-Y"
 
     [params.summary]
         enable = true
-        text = "With 10 years of practical experience and a broad knowlegde technologies and frameworks, I've become a versatile Java-Expert. During my professional career I could gather valueable knowledge in various industries like telecommunications, education or public services and my international exposure further helps me to quickly adjust to different working environments and to communicate effectively. Through my deep understanding of the whole Java Ecosystem and my high standards in regards of application design, I constantly strive to deliver software components meeting the highest quality standards. Robust, well-designed software and clean, thourougly tested code are not just ideals for me but a minimum requirement."
+        text = "I'm a java expert with a 10 year track record of building reliable and robust applications. It's important for me to build software which is not just 'running', but is extensible and maintainable. I was working on a variety of projects in the industries telecommunications, public services, education and otherse."
 
 
 
